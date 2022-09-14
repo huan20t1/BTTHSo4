@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTTH4</string>
+    <string name="loginsuccess">Đăng nhập thành công</string>
+    <string name="loginerror">Tài khoản hoặc mật khâu không chính xác</string>
+</resources>
